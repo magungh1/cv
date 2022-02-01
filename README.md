@@ -1,6 +1,6 @@
-# Carolyn Stransky
+# Muhammad Agung Hambali
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_Artificial Intelligence Engineer who works on computer vision and NLP based in Bandung, Indonesia_ <br>
 
 [Email](mailto:agunghambali@gmail.com) / [LinkedIn](https://www.linkedin.com/in/agunghambali/) / [GitHub](https://github.com/magungh1) / [Huggingface](https://huggingface.co/ayameRushia/)
 
