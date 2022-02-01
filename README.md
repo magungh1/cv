@@ -6,19 +6,19 @@ _Artificial Intelligence Engineer who works on computer vision and NLP based in 
 
 ## 👩🏼‍💻 Technical Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
-<br><br>
-
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+**Aritificial Intelligence Engineer** @ [ZAPPS](https://zapps.co.id/) _(Aug 2020 - Present)_ <br>
+Artificial Intelligence Company based in Bandung, Indonesia.
+  - Built Image Classification for Cytopathic Effect (CPE) for polio vaccine production in Biofarma
+  - Built API for various objectives:
+    -  Object Detection, Countring and Tracking (People, Car, Custom)
+    -  Custom Optical Character Recognition (OCR)
+    -  License Plate Recognition and Reader
+    -  Language Translation using Transformer (MarianMT Transformers)
+    -  Sentiment Analysis using RoBERTA
+  - Developed Bot with Natural Language Understanding (NLU)
+  - Developed speech to text and text to speech for Indonesian Language
+  - Built Account Manager project success rate prediction application
+  - **_Technologies used:_** Python, Tensorflow, Pytorch, Scikit-learn, Docker, Google Cloud Platform, Linux/Unix.
 <br><br>
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
@@ -138,20 +138,12 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 💬 Languages
 
-**English**: Native <br>
-**German**: A2.2
+**Indonesia**: Native <br>
+**English**: A2.2
+**Arabic**: A2.2
 <br><br>
 
 ## 👩🏼‍🎓 Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Bachelor of Engineering** in Industrial Engineering<br>
+[Telkom University](https://telkomuniversity.ac.id/) - Beloit, Wisconsin, USA _(2011 - 2015)_
