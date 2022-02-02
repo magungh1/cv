@@ -32,11 +32,11 @@ Artificial Intelligence Company based in Bandung, Indonesia.
 ## 💬 Languages
 
 **Indonesia**: Native <br>
-**English**
+**English** <br>
 **Arabic**
 <br><br>
 
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Engineering** in Industrial Engineering<br>
-[Telkom University](https://telkomuniversity.ac.id/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+[Telkom University](https://telkomuniversity.ac.id/) - Bandung, Indonesia _(2016 - 2020)_
