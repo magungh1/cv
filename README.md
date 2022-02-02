@@ -27,7 +27,7 @@ Artificial Intelligence Company based in Bandung, Indonesia.
   
 **Fine-tuning GPT2-small and GPT2-medium for generating poems** [link gpt-2 small](https://huggingface.co/ayameRushia/gpt2-small-indonesia-fine-tuning-poem), [link gpt-2 medium](https://huggingface.co/ayameRushia/gpt2-small-indonesia-fine-tuning-poem)
 
-**Fine-tuning BERT and RoBERTa for sentiment analysis using Indonesia smsa dataset** [link-BERT](https://huggingface.co/ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa) , [link-RoBERTa](https://huggingface.co/ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa)
+**Fine-tuning BERT and RoBERTa for sentiment analysis using Indonesia smsa dataset** [link-BERT](https://huggingface.co/ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa), [link-RoBERTa](https://huggingface.co/ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa)
 
 ## 💬 Languages
 
