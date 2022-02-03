@@ -8,16 +8,16 @@ _Artificial Intelligence Engineer who works on computer vision and NLP based in 
 
 **Artificial Intelligence Engineer** @ [ZAPPS](https://zapps.co.id/) _(Aug 2020 - Present)_ <br>
 Artificial Intelligence Company based in Bandung, Indonesia.
-  - Built Image Classification for Cytopathic Effect (CPE) for polio vaccine production in Biofarma
-  - Built API for various objectives:
+  - **Built Image Classification for Cytopathic Effect (CPE) for polio vaccine production in Biofarma**
+  - **Built API for various objectives**:
     -  Object Detection, Counting and Tracking (People, Car, Custom Object)
     -  Custom Optical Character Recognition (OCR)
     -  License Plate Recognition and Reader
     -  Language Translation using Transformer (MarianMT)
     -  Sentiment Analysis using RoBERTA
-  - Developed Bot with Natural Language Understanding (NLU)
-  - Developed speech to text and text to speech for Indonesian Language
-  - Built Account Manager project success rate prediction application
+  - **Developed Bot with Natural Language Understanding (NLU)**
+  - **Developed speech to text and text to speech for Indonesian Language**
+  - **Built Account Manager project success rate prediction application**
   - **_Technologies used:_** Python, Tensorflow, Pytorch, Scikit-learn, Docker, Google Cloud Platform, Linux/Unix.
 <br><br>    
 
